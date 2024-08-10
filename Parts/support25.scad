@@ -1,0 +1,31 @@
+union(){
+    difference(){
+        cube([32,9,2]);
+        translate([2.5,3.5,0]){
+            cylinder(r=1.5,h=6); 
+        }
+        translate([29.5,3.5,0]){
+            cylinder(r=1.5,h=6); 
+        }
+        translate([8,0,0]){
+            cube([16,2,2]);
+        }
+    }
+    translate([0,0,20]){
+        difference(){
+            cube([32,9,2]);
+            translate([2.5,3.5,0]){
+                cylinder(r=1.5,h=6); 
+            }
+            translate([29.5,3.5,0]){
+                cylinder(r=1.5,h=6); 
+            }
+            translate([8,0,0]){
+                cube([16,2,2]);
+            }
+        }
+    }
+    translate([0,7,0]){
+        cube([32,2,20]);
+    }
+}
