@@ -9,7 +9,7 @@ https://youtube.com/shorts/FbR3X0CkPOg?feature=share
 
 ## Composants utilisés:
 - Arduino: Uno
-- <img src="https://github.com/user-attachments/assets/79493567-de3a-4c02-8262-b11da3b6cc7a" width="100">
+<img src="https://github.com/user-attachments/assets/79493567-de3a-4c02-8262-b11da3b6cc7a" width="100">
 
 - Shield Moteur: L293 DRI0001
 <img src="https://github.com/user-attachments/assets/5723daeb-e320-47ac-a4e1-53ab2531cc2f" width="100">
